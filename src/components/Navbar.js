@@ -64,7 +64,7 @@ const Navbar = () =>{
                     aria-current="page"
                     to="sports"
                   >
-                    sports
+                    Sports
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -72,7 +72,7 @@ const Navbar = () =>{
                     aria-current="page"
                     to="technology"
                   >
-                    techonolgy
+                    Techonolgy
                   </Link>
                 </li>
                 <li className="nav-item">
